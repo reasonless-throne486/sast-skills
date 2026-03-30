@@ -4,7 +4,7 @@ A collection of agent skills that turn your LLM coding assistant into a fully fu
 
 Claude Code with Opus model is recommended. But if the cost is a concern, use any IDE and model you trust.
 
-![Screenshot from Opencode](opencode-screenshot.png)
+![Process in Claude Code](demo.gif)
 
 ## How It Works
 
